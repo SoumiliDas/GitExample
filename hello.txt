@@ -1,0 +1,4 @@
+This is my First Message
+This is my second Message
+i love git tools
+wow what a day.
